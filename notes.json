@@ -1,14 +1,20 @@
 [
     {
         "id": 1,
-        "title": "Dor de tine",
-        "message": "Astazi,20 martie,prima seara fara tine ",
-        "timestamp": "2024-03-20 21:06:24"
+        "title": "Dorut de tinee",
+        "message": "Si zic ca chiar o sa numar zilele pana ajung la tine",
+        "timestamp": "2024-03-20 21:15:04"
     },
     {
         "id": 2,
-        "title": "Adrenalina",
-        "message": "Si cum eu acum sa merg cu marsrutca pana vii tu sau ce ",
-        "timestamp": "2024-03-20 21:07:00"
+        "title": "Singura ",
+        "message": "Singura de azi inainte,merit ceva mai bun decat tine",
+        "timestamp": "2024-03-20 21:13:41"
+    },
+    {
+        "id": 3,
+        "title": "Habar nu ai",
+        "message": "Habar nu ai ce e in capul meu si cat de tare striga inima ca nu mai stie ce mai vrea",
+        "timestamp": "2024-03-20 21:14:09"
     }
 ]
